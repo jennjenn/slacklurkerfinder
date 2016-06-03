@@ -1,4 +1,4 @@
 # slacklurkerfinder
 A tiny script to find out who the lurkers are in your Slack team.
 
-Get yourself a Slack Token, add it to the script file, run it, prosper.
+Get yourself a [Slack Token](https://api.slack.com/docs/oauth-test-tokens), add it to the script file, run it, prosper.
