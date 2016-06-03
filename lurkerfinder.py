@@ -2,7 +2,7 @@ import json
 from urllib2 import Request, urlopen, URLError
 from pprint import pprint
 
-var token = <YOUR SLACK TOKEN>
+var token = "<YOUR SLACK TOKEN>"
 
 request = Request('https://slack.com/api/users.list?token=' + token)
 
